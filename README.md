@@ -1,2 +1,2 @@
 ### Day 1 : 2021
-#### portfolio 
+- personel portfolio of mine in 2021
